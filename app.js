@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
-    
+    alert("klk con klk")
     
     //---------------------------------------------
 
